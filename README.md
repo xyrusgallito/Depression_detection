@@ -8,4 +8,4 @@ This is the repository for automatic detecttion of depression using deep learnin
 4. Exploratory_data_analysis_final.ipynb is the EDA code part of the project
 5. Extracting_and_labeling_filtering_signals_ECG.ipynb is the code for extracting raw electrocardiogram data from the source
 6. Extracting_and_labeling_filtering_signals_EDA.ipynb is the code for extracting raw electrodermal activity from the source
-7. 
+7. SDS_clean.xlsx is the corresponding depression score using Zung's Self-rating Depression Score (SDS).
