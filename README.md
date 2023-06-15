@@ -6,5 +6,6 @@ This is the repository for automatic detecttion of depression using deep learnin
 2. "CODES_ALL" folder contains all the codes written in Python using Jupyter notebook
 3. "Final_models" folder contains the final algorithm codes: hybrid models CNN-BiLSTM and VGG16-BiLSTM
 4. Exploratory_data_analysis_final.ipynb is the EDA code part of the project
-5. Extracting_and_labeling_filtering_signals_ECG.ipynb is the code for extracting data from the source
-6. 
+5. Extracting_and_labeling_filtering_signals_ECG.ipynb is the code for extracting raw electrocardiogram data from the source
+6. Extracting_and_labeling_filtering_signals_EDA.ipynb is the code for extracting raw electrodermal activity from the source
+7. 
